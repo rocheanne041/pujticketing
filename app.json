@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PUJTicketing",
+    "slug": "PUJTicketing",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/buslogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/BusStop3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/buslogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/buslogo.png"
+    }
+  }
+}

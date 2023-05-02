@@ -24,7 +24,7 @@ import {
   TextLinkContent,
 } from './../components/styles';
 import { StatusBar } from 'expo-status-bar';
-import Formik from 'formik'; //error
+import { Formik } from 'formik'; //error
 
 const { brand, darkLight, primary } = Colors;
 
